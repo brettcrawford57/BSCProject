@@ -70,6 +70,15 @@ a {
     color: #482ff7;
 }
 
+.bannerLogo{
+    background-color: aqua;
+    font-family: 'Zen Tokyo Zoo', cursive;
+    font-size: 5vw;
+    text-align: center;
+    width: 100%;
+    padding: 2vw;
+}
+
 @media only screen and (max-width: 768px) {
     .nav-menu {
         position: fixed;
